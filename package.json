@@ -1,0 +1,27 @@
+{
+  "name": "mailgun-sending-template",
+  "version": "1.0.0",
+  "description": "Este programa es una plantilla para programar envios de correo a través de la API programática de Mailgun con nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davc93/mailgun-sending-template.git"
+  },
+  "keywords": [
+    "mailgun",
+    "nodejs"
+  ],
+  "author": "Diego Vergara Casanova <davc93@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davc93/mailgun-sending-template/issues"
+  },
+  "homepage": "https://github.com/davc93/mailgun-sending-template#readme",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "mailgun.js": "^7.0.0"
+  }
+}
