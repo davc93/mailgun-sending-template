@@ -21,7 +21,7 @@ async function enviarCorreo(){
                     <body>
                         <div>
                             <h2>Actualizacion del sitio</h2>
-                            <p>Se ha actualizado el sitio del Doctor casavano correctamente</p>
+                            <p>Se ha actualizado el sitio del Doctor Casanova correctamente</p>
                         </div>
                     </body>
                 </html>`,
